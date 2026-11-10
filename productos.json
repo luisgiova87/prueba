@@ -20,13 +20,23 @@
     "precio_final": 580
   },
   {
+    "nombre": "ASUS VIVOBOOK 14 X1404VA Intel Core I3-1315U 8gb RAM 128gb SSD 14″ W11",
+    "precio_original": 495.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-14-x1404va-intel-core-i3-1315u-8gb-ram-128gb-ssd-14-w11-2/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-7-154x154.png",
+    "fuente": "DigitalPC",
+    "imagen": "imagenes/03-asus-vivobook-14-x1404va-intel-core-i3-1315u-8gb-ram-128gb-s.jpg",
+    "precio_final": 590
+  },
+  {
     "nombre": "DELL 15 DC15255 AMD Ryzen 3-7320U 8gb RAM 512gb SSD 15.6″ FHD W11",
     "precio_original": 535.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/dell-15-dc15255-amd-ryzen-3-7320u-8gb-ram-512gb-ssd-15-6-fhd-w11/",
     "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/10/PORTADA.png",
     "fuente": "DigitalPC",
-    "imagen": "imagenes/03-dell-15-dc15255-amd-ryzen-3-7320u-8gb-ram-512gb-ssd-15-6-fhd.jpg",
+    "imagen": "imagenes/04-dell-15-dc15255-amd-ryzen-3-7320u-8gb-ram-512gb-ssd-15-6-fhd.jpg",
     "precio_final": 630
   },
   {
@@ -36,28 +46,28 @@
     "url_origen": "https://digitalpcecuador.com/producto/asus-vivibook-go-15-e1504ga-intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11/",
     "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-8-154x154.png",
     "fuente": "DigitalPC",
-    "imagen": "imagenes/04-asus-vivibook-go-15-e1504ga-intel-core-i3-n305-8gb-ram-256gb.jpg",
+    "imagen": "imagenes/05-asus-vivibook-go-15-e1504ga-intel-core-i3-n305-8gb-ram-256gb.jpg",
     "precio_final": 640
   },
   {
-    "nombre": "ASUS VIVOBOOK GO 15 E1504FA AMD Ryzen 5-7520U 8gb RAM 512gb SSD 15.6″ W11",
-    "precio_original": 545.0,
+    "nombre": "HP 15-FC014DX R5 7520U,8GB,512SSD,15.6″ FHD W11",
+    "precio_original": 575.0,
     "categoria": "Computadoras",
-    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-w11-3/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2024/12/descarga-8-100x100.png",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-15-fc014dx-r5-7520u8gb512ssd15-6-fhd-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/04/7730-4-3-1.jpg",
     "fuente": "DigitalPC",
-    "imagen": "imagenes/05-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-8gb-ram-512gb-.jpg",
-    "precio_final": 640
+    "imagen": "imagenes/06-hp-15-fc014dx-r5-7520u-8gb-512ssd-15-6-fhd-w11.jpg",
+    "precio_final": 670
   },
   {
     "nombre": "ASUS VIVOBOOK 14 X1404VAP Intel Core 5-120U 8gb RAM 256gb SSD 14″ W11",
-    "precio_original": 575.0,
+    "precio_original": 625.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-14-x1404vap-intel-core-5-120u-8gb-ram-256gb-ssd-14-w11/",
     "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/descarga-4-2-154x154.png",
     "fuente": "DigitalPC",
-    "imagen": "imagenes/06-asus-vivobook-14-x1404vap-intel-core-5-120u-8gb-ram-256gb-ss.jpg",
-    "precio_final": 670
+    "imagen": "imagenes/07-asus-vivobook-14-x1404vap-intel-core-5-120u-8gb-ram-256gb-ss.jpg",
+    "precio_final": 720
   },
   {
     "nombre": "LENOVO V15 G4 AMD Ryzen 7-7730U 8gb RAM 256SSD 15.6″ FHD",
@@ -66,7 +76,7 @@
     "url_origen": "https://digitalpcecuador.com/producto/lenovo-v15-g4-amd-ryzen-7-7730u-8gb-ram-256ssd-15-6-fhd/",
     "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/03/FOTOS-WEB-4.jpg",
     "fuente": "DigitalPC",
-    "imagen": "imagenes/07-lenovo-v15-g4-amd-ryzen-7-7730u-8gb-ram-256ssd-15-6-fhd.jpg",
+    "imagen": "imagenes/08-lenovo-v15-g4-amd-ryzen-7-7730u-8gb-ram-256ssd-15-6-fhd.jpg",
     "precio_final": 730
   },
   {
@@ -76,7 +86,7 @@
     "url_origen": "https://digitalpcecuador.com/producto/hp-15-fc0256la-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-15-6/",
     "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/09/FOTOS-WEB.jpg",
     "fuente": "DigitalPC",
-    "imagen": "imagenes/08-hp-15-fc0256la-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-15-6.jpg",
+    "imagen": "imagenes/09-hp-15-fc0256la-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-15-6.jpg",
     "precio_final": 750
   },
   {
@@ -86,18 +96,28 @@
     "url_origen": "https://digitalpcecuador.com/producto/lenovo-ideapad-1-intel-core-i5-1335u-16gb-ram-256gb-ssd-15-6-w11/",
     "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-27.jpg",
     "fuente": "DigitalPC",
-    "imagen": "imagenes/09-lenovo-ideapad-1-intel-core-i5-1335u-16gb-ram-256gb-ssd-15-6.jpg",
+    "imagen": "imagenes/10-lenovo-ideapad-1-intel-core-i5-1335u-16gb-ram-256gb-ssd-15-6.jpg",
     "precio_final": 760
   },
   {
-    "nombre": "ASUS VIVOBOOK GO 15 E1504FA RYZEN 5-40 16GB 512SSD 15,6´´ FHD",
+    "nombre": "DELL PRO 15 ESSENTIAL PV15250 CORE I5-1334U 8gb RAM 512gb SSD 15.6″ FHD",
     "precio_original": 675.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-pro-15-essential-pv15250-core-i5-1334u-8gb-ram-512gb-ssd-15-6-fhd-copia/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/10/PORTADA.png",
+    "fuente": "DigitalPC",
+    "imagen": "imagenes/11-dell-pro-15-essential-pv15250-core-i5-1334u-8gb-ram-512gb-ss.jpg",
+    "precio_final": 770
+  },
+  {
+    "nombre": "ASUS VIVOBOOK GO 15 E1504FA RYZEN 5-40 16GB 512SSD 15,6´´ FHD",
+    "precio_original": 695.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504fa-ryzen-5-4016gb512ssd156fhd/",
     "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/07/PORTADA-2.png",
     "fuente": "DigitalPC",
-    "imagen": "imagenes/10-asus-vivobook-go-15-e1504fa-ryzen-5-40-16gb-512ssd-15-6-fhd.jpg",
-    "precio_final": 770
+    "imagen": "imagenes/12-asus-vivobook-go-15-e1504fa-ryzen-5-40-16gb-512ssd-15-6-fhd.jpg",
+    "precio_final": 790
   },
   {
     "nombre": "ASUS VIVOBOOK 15 F1504VA CORE I5-1334U 8gb RAM 512gb SSD 15.6″ FHD W11",
@@ -106,7 +126,7 @@
     "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504va-core-i5-1334u-8gb-ram-512gb-ssd-15-6-fhd-w11/",
     "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/PORTADA-1.png",
     "fuente": "DigitalPC",
-    "imagen": "imagenes/11-asus-vivobook-15-f1504va-core-i5-1334u-8gb-ram-512gb-ssd-15-.jpg",
+    "imagen": "imagenes/13-asus-vivobook-15-f1504va-core-i5-1334u-8gb-ram-512gb-ssd-15-.jpg",
     "precio_final": 790
   },
   {
@@ -116,8 +136,228 @@
     "url_origen": "https://digitalpcecuador.com/producto/lenovo-v15-g4-intel-core-i5-1335u-8gb-ram-256gb-ssd-15-6-w11-pro/",
     "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/01/lenovo-1.png",
     "fuente": "DigitalPC",
-    "imagen": "imagenes/12-lenovo-v15-g4-intel-core-i5-1335u-8gb-ram-256gb-ssd-15-6-w11.jpg",
+    "imagen": "imagenes/14-lenovo-v15-g4-intel-core-i5-1335u-8gb-ram-256gb-ssd-15-6-w11.jpg",
     "precio_final": 790
+  },
+  {
+    "nombre": "kit fotográfico del Xiaomi 15 Ultra",
+    "precio_original": 99.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/kit-fotografico-del-xiaomi-15-ultra/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/04/kit15-300x251.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/15-kit-fotogr-fico-del-xiaomi-15-ultra.webp",
+    "precio_final": 150
+  },
+  {
+    "nombre": "Realme C11 (2021) RAM 2GB/32GB",
+    "precio_original": 102.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/realme-c11/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2021/07/Realme-C11-100x100.jpg",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/16-realme-c11-2021-ram-2gb-32gb.jpg",
+    "precio_final": 160
+  },
+  {
+    "nombre": "LOGIC G1L GAMING PHONE+GAME PAD+BUDS RAM 4+10GB/ 128GB",
+    "precio_original": 139.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/logic-g1l-gaming-phonegame-padbuds-ram-410gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/08/logi-768x434.png",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/17-logic-g1l-gaming-phone-game-pad-buds-ram-4-10gb-128gb.jpg",
+    "precio_final": 190
+  },
+  {
+    "nombre": "ZTE Blade A56 Pro RAM 4+8 /128GB",
+    "precio_original": 139.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/zte-blade-a56-pro-ram-48-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/12/a56-pro-150x200.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/18-zte-blade-a56-pro-ram-4-8-128gb.webp",
+    "precio_final": 190
+  },
+  {
+    "nombre": "Tecno Spark Go 3 Ram4+4GB-128GB",
+    "precio_original": 145.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/tecno-spark-go-3-ram44gb-64gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/tecno-spark-go-3-1200x1200.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/19-tecno-spark-go-3-ram4-4gb-128gb.webp",
+    "precio_final": 200
+  },
+  {
+    "nombre": "Xiaomi Redmi A7 Pro Ram 4GB-128GB",
+    "precio_original": 145.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-redmi-a7-pro-ram-4gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/08/xiaomi-redmi-a7-pro-600x600.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/20-xiaomi-redmi-a7-pro-ram-4gb-128gb.webp",
+    "precio_final": 200
+  },
+  {
+    "nombre": "Samsung A07 Ram 4GB-6GB/ 128GB",
+    "precio_original": 149.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-a07-ram-4gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/a07-600x600.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/21-samsung-a07-ram-4gb-6gb-128gb.webp",
+    "precio_final": 200
+  },
+  {
+    "nombre": "TCL L10+",
+    "precio_original": 150.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/l10/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2021/04/1062-100x100.jpg",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/22-tcl-l10.jpg",
+    "precio_final": 200
+  },
+  {
+    "nombre": "Tecno Spark 9 Pro",
+    "precio_original": 165.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/tecno-spark-9-pro/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2022/11/Tecno-Spark-9-Pro-4-300x300.jpg",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/23-tecno-spark-9-pro.jpg",
+    "precio_final": 220
+  },
+  {
+    "nombre": "Honor X5c Plus Ram 4GB- 256GB",
+    "precio_original": 179.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/honor-x5c-plus-ram-4gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/x5plus-150x150.jpg",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/24-honor-x5c-plus-ram-4gb--256gb.jpg",
+    "precio_final": 230
+  },
+  {
+    "nombre": "Motorola G17 Ram 4GB- 256GB",
+    "precio_original": 185.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/motorola-g17-ram-4gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/moto-g17-150x150.jpg",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/25-motorola-g17-ram-4gb--256gb.jpg",
+    "precio_final": 240
+  },
+  {
+    "nombre": "Realme Narzo 30 (5G)",
+    "precio_original": 195.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/realme-narzo-30-5g/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2021/11/719tm7l723L._SL1500_-100x100.jpg",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/26-realme-narzo-30-5g.jpg",
+    "precio_final": 250
+  },
+  {
+    "nombre": "Xiaomi Redmi 15c Ram 8gb / 256gb",
+    "precio_original": 195.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-redmi-15c-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/09/redmi15c-216x300.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/27-xiaomi-redmi-15c-ram-8gb-256gb.webp",
+    "precio_final": 250
+  },
+  {
+    "nombre": "Xiaomi Poco C85 4G Ram 6Gb /128Gb",
+    "precio_original": 195.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-poco-c85-4g-ram-6gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/poco-c85-150x150.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/28-xiaomi-poco-c85-4g-ram-6gb-128gb.webp",
+    "precio_final": 250
+  },
+  {
+    "nombre": "SAMSUNG GALAXY A17 Ram 8GB-4gb /128GB-256GB",
+    "precio_original": 195.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-a17-4gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/sam-a17-4g-1200x1200.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/29-samsung-galaxy-a17-ram-8gb-4gb-128gb-256gb.webp",
+    "precio_final": 250
+  },
+  {
+    "nombre": "Infinix Hot 70 Ram 4+4 GB-256GB",
+    "precio_original": 209.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/infinix-hot-70-ram-44-gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/10/hot-70-600x600.png",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/30-infinix-hot-70-ram-4-4-gb-256gb.jpg",
+    "precio_final": 260
+  },
+  {
+    "nombre": "Celular Honor X6E Ram 4+4 GB -256GB",
+    "precio_original": 209.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/celular-honor-x6e-ram-44-gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/10/honorx6e-150x150.jpg",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/31-celular-honor-x6e-ram-4-4-gb--256gb.jpg",
+    "precio_final": 260
+  },
+  {
+    "nombre": "XIAOMI Redmi 17 Ram 6GB-256GB",
+    "precio_original": 263.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-redmi-17-ram-6gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/10/redmi-17-150x187.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/32-xiaomi-redmi-17-ram-6gb-256gb.webp",
+    "precio_final": 320
+  },
+  {
+    "nombre": "Xiaomi Mi 10 lite 128gb 6gb Ram 5G",
+    "precio_original": 269.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-mi-10-lite-128gb-6gb-ram-5g/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2023/01/1-15.svg",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/33-xiaomi-mi-10-lite-128gb-6gb-ram-5g.jpg",
+    "precio_final": 320
+  },
+  {
+    "nombre": "OPPO A5 5G Ram 8GB/ 256GB",
+    "precio_original": 269.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/oppo-a5-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/oppoa5-300x294.png",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/34-oppo-a5-5g-ram-8gb-256gb.jpg",
+    "precio_final": 320
+  },
+  {
+    "nombre": "XIAOMI REDMI NOTE 17 NEGRO 6GB+6GB – 256GB",
+    "precio_original": 275.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-redmi-note-17-negro-6gb6gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/10/xiaomi-redmi-note-17-5g-verde-azulado-600x600.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/35-xiaomi-redmi-note-17-negro-6gb-6gb-256gb.webp",
+    "precio_final": 330
+  },
+  {
+    "nombre": "Celular Honor X7E 256GB Ram8GB-256GB",
+    "precio_original": 289.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/celular-honor-x7e-256gb-ram8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/10/honor-x7e-naranja-600x600.webp",
+    "fuente": "MundoTek",
+    "imagen": "imagenes/36-celular-honor-x7e-256gb-ram8gb-256gb.webp",
+    "precio_final": 340
   },
   {
     "nombre": "HONOR X8d Ram 8GB- 256GB/512GB",
@@ -126,7 +366,7 @@
     "url_origen": "https://mundotek.com.ec/producto/honor-x8d-ram-8gb-256gb-512gb/",
     "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/honor-x8d-600x600.webp",
     "fuente": "MundoTek",
-    "imagen": "imagenes/13-honor-x8d-ram-8gb--256gb-512gb.webp",
+    "imagen": "imagenes/37-honor-x8d-ram-8gb--256gb-512gb.webp",
     "precio_final": 370
   },
   {
@@ -136,187 +376,7 @@
     "url_origen": "https://mundotek.com.ec/producto/realme-p3-5g-ram-8gb-12gb-256gb-512gb-control/",
     "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/09/realmemas-control-600x600.jpg",
     "fuente": "MundoTek",
-    "imagen": "imagenes/14-realme-p3-5g-ram-8gb-12gb--256gb-512gb-control.jpg",
+    "imagen": "imagenes/38-realme-p3-5g-ram-8gb-12gb--256gb-512gb-control.jpg",
     "precio_final": 380
-  },
-  {
-    "nombre": "Samsung Galaxy A36 5G Ram 8GB / 256GB",
-    "precio_original": 359.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-a36-5g-ram-8gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/04/a36-black-mtk-300x300.jpg",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/15-samsung-galaxy-a36-5g-ram-8gb-256gb.jpg",
-    "precio_final": 410
-  },
-  {
-    "nombre": "Samsung Galaxy A37 5G Ram 8GB- 256GB",
-    "precio_original": 375.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-a37-5g-ram-8gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/08/a37-150x150.webp",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/16-samsung-galaxy-a37-5g-ram-8gb--256gb.webp",
-    "precio_final": 430
-  },
-  {
-    "nombre": "Infinix HOT 70 Pro 5G+ RAM 8+8GB -256GB",
-    "precio_original": 375.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/infinix-hot-70-pro-5g-ram-88gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/10/infinix-hot-70-pro-5g-600x600.webp",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/17-infinix-hot-70-pro-5g-ram-8-8gb--256gb.webp",
-    "precio_final": 430
-  },
-  {
-    "nombre": "Tecno Camón 50 pro Ram 8+8 GB/256GB+audifonos tipo diadema",
-    "precio_original": 379.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/tecno-camon-50-pro-ram-88-gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/tecno-camon-50-pro-2-600x600.avif",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/18-tecno-cam-n-50-pro-ram-8-8-gb-256gb-audifonos-tipo-diadema.jpg",
-    "precio_final": 430
-  },
-  {
-    "nombre": "XIAOMI POCO F4 Ram 8GB/ 256GB",
-    "precio_original": 399.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/xiaomi-poco-f4-ram-8gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2022/08/Nuevo-proyecto-11-1-1536x1536.png",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/19-xiaomi-poco-f4-ram-8gb-256gb.jpg",
-    "precio_final": 450
-  },
-  {
-    "nombre": "Honor 600 Elite 5G Ram 8GB-256GB",
-    "precio_original": 409.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/honor-600-elite-5g-ram-8gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/10/honor-600-elite-negro-600x600.webp",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/20-honor-600-elite-5g-ram-8gb-256gb.webp",
-    "precio_final": 460
-  },
-  {
-    "nombre": "Motorola Edge 70 Fusion Ram 8GB-256GB +Buds motorola",
-    "precio_original": 419.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/motorola-edge-70-fusion-ram-8gb-256gb-buds-motorola/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/70-fushion-600x600.png",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/21-motorola-edge-70-fusion-ram-8gb-256gb-buds-motorola.jpg",
-    "precio_final": 470
-  },
-  {
-    "nombre": "ZTE NUBIA NEO 05 GT RAM 12+12GB -256GB",
-    "precio_original": 429.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/zte-nubia-neo-05-gt-ram-1212gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/10/nubia-neo-5-1200x1200.webp",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/22-zte-nubia-neo-05-gt-ram-12-12gb--256gb.webp",
-    "precio_final": 480
-  },
-  {
-    "nombre": "Infinix Note 60 Pro 5G RAM 8+8 GB/256GB",
-    "precio_original": 449.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/infinix-note-60-pro-5g-ram-88-gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/infinix-note-60pro-150x145.webp",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/23-infinix-note-60-pro-5g-ram-8-8-gb-256gb.webp",
-    "precio_final": 500
-  },
-  {
-    "nombre": "Honor 600E Ram 8GB-256GB",
-    "precio_original": 449.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/honor-600e-ram-8gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/06/honor-e-150x225.webp",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/24-honor-600e-ram-8gb-256gb.webp",
-    "precio_final": 500
-  },
-  {
-    "nombre": "Samsung Galaxy A57 Ram 8GB-256GB IA",
-    "precio_original": 469.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-a57-ram-8gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/a57-600x600.png",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/25-samsung-galaxy-a57-ram-8gb-256gb-ia.jpg",
-    "precio_final": 520
-  },
-  {
-    "nombre": "Honor Magic8 Lite Ram 8GB 512GB",
-    "precio_original": 483.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/honor-magic8-lite-ram-8gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/01/magi-8lite-600x600.webp",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/26-honor-magic8-lite-ram-8gb-512gb.webp",
-    "precio_final": 540
-  },
-  {
-    "nombre": "Xiaomi Redmi Note 17 Pro 5G Ram 8GB-512GB",
-    "precio_original": 489.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/xiaomi-redmi-note-17-pro-5g-ram-6gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/10/xiaomi-redmi-note-17-pro-5g-600x600.webp",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/27-xiaomi-redmi-note-17-pro-5g-ram-8gb-512gb.webp",
-    "precio_final": 540
-  },
-  {
-    "nombre": "Oppo Reno13F 5G Ram 12GB/ 512GB IP69",
-    "precio_original": 499.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/reno13-f-5g-ram-12gb-512gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/reno-13f-220x300.jpg",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/28-oppo-reno13f-5g-ram-12gb-512gb-ip69.jpg",
-    "precio_final": 550
-  },
-  {
-    "nombre": "Redmi Note 15 Pro Plus 5G Ram12GB/ 256GB",
-    "precio_original": 525.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/redmi-note-15-pro-plus-5g-ram12gb-256gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/xiaomi-redmi-note15-pro-plus-150x113.png",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/29-redmi-note-15-pro-plus-5g-ram12gb-256gb.jpg",
-    "precio_final": 580
-  },
-  {
-    "nombre": "Oppo Reno14F Ram 12GB-512GB +AUDIFONOS",
-    "precio_original": 535.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/oppo-reno14f-ram-12gb-512gb-audifonos/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/01/reno-150x185.webp",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/30-oppo-reno14f-ram-12gb-512gb-audifonos.webp",
-    "precio_final": 590
-  },
-  {
-    "nombre": "Xiaomi Poco x8 Pro Ram 12GB/ 512GB",
-    "precio_original": 559.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/xiaomi-poco-x8-pro-ram-12gb-512gb/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/x8-pro-600x600.jpg",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/31-xiaomi-poco-x8-pro-ram-12gb-512gb.jpg",
-    "precio_final": 610
-  },
-  {
-    "nombre": "IPHONE 11 PRO MAX OPEN BOX A 256GB",
-    "precio_original": 579.0,
-    "categoria": "Celulares",
-    "url_origen": "https://mundotek.com.ec/producto/iphone-11-pro-max-open-box/",
-    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2022/09/11-pro-max-p-768x768.jpg",
-    "fuente": "MundoTek",
-    "imagen": "imagenes/32-iphone-11-pro-max-open-box-a-256gb.jpg",
-    "precio_final": 630
   }
 ]
